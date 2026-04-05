@@ -1,0 +1,7 @@
+﻿  minesweep.cpp
+C:\C语言学习\c语言作业\扫雷easyx版-王靖超\minesweeper\minesweep.cpp(114,23): warning C4244: “初始化”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  minesweeper.vcxproj -> C:\C语言学习\c语言作业\扫雷easyx版-王靖超\x64\Debug\minesweeper.exe
