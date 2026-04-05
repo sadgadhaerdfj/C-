@@ -1,0 +1,7 @@
+﻿  minesweeper.cpp
+C:\c语言作业\minesweeper\minesweeper.cpp(57,83): warning C4244: “参数”: 从“_Rep”转换到“unsigned int”，可能丢失数据
+C:\c语言作业\minesweeper\minesweeper.cpp(57,83): warning C4244:         with
+C:\c语言作业\minesweeper\minesweeper.cpp(57,83): warning C4244:         [
+C:\c语言作业\minesweeper\minesweeper.cpp(57,83): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\c语言作业\minesweeper\minesweeper.cpp(57,83): warning C4244:         ]
+  minesweeper.vcxproj -> C:\c语言作业\minesweeper\x64\Debug\minesweeper.exe

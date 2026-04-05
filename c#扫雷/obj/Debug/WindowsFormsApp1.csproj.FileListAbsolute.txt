@@ -1,0 +1,30 @@
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C_sharp\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C_sharp\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C_sharp\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C_sharp\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\86152\Documents\Tencent Files\3080367068\FileRecv\康江涛-c#扫雷\cs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\c语言作业\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\c语言作业\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\c语言作业\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\c语言作业\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
